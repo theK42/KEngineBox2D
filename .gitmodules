@@ -1,0 +1,4 @@
+[submodule "Box2D"]
+	path = Box2D
+	url = https://github.com/erincatto/Box2D.git
+	branch = 7e633c4fb86a68bf072fb8ae67ea2c060114750e
